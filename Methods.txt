@@ -1,0 +1,8 @@
+OpenTags 是一个使用模块化标签系统的开源授权协议框架。本项目允许开发者在自定义许可条款的同时，保持法律严谨性。
+OpenTags is an open source licensing framework that uses a modular labeling system. The project allows developers to customize the license terms while maintaining legal rigor.
+
+核心思想
+	1. 标签组合：通过将不同的开源标签组合以实现丰富精准的协议控制。
+	2. 统一定义：对于特定的开源标签组合，对其分配一个固定的代码。例如，由“开源”“免费”“允许商业化”“可自由分发”“保留原始版权”组合的协议，可称其为“OpenTags.A001 许可”。
+	3. 可自定义：对于暂未授予固定代码的标签组合，开发者可使用临时描述。例如将上一条许可称为“OpenTags.OS-FE-CC-FD-OC 许可”。
+	4. 逻辑清晰：希望打造一个逻辑清晰、普通人一看就明白的开源授权协议。
